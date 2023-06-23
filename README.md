@@ -3,7 +3,7 @@
 <img width=50% src="https://res.cloudinary.com/damtrix/image/upload/v1687510566/propertyCategories/sellProperty_Login_vzvadp.png">
  <img width=50% src="https://res.cloudinary.com/damtrix/image/upload/v1687507731/propertyCategories/sellProperty_hx58xx.png" alt="sellProperty" title="sellProperty">
 <a href="https://damtrix.github.io/clientSellProperty/">
-    <img width=50% src="https://res.cloudinary.com/damtrix/image/upload/v1687507731/propertyCategories/sellProperty_hx58xx.png" alt="sellProperty" title="sellProperty">
+    <img width=50% src="https://res.cloudinary.com/damtrix/image/upload/v1687507731/propertyCategories/sellProperty_hx58xx.png">
 </a>
 
 [Sell property](https://damtrix.github.io/clientSellProperty/) is an innovative web application created to facilitate the process of selling and purchasing properties, such as houses and landed properties, within Nigeria. With a focus on assisting sellers and buyers, sellProperty offers a range of features to streamline property search and payment procedures.
