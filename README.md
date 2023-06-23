@@ -1,7 +1,5 @@
 # Sell Property
 
-<img width=50% src="https://res.cloudinary.com/damtrix/image/upload/v1687510566/propertyCategories/sellProperty_Login_vzvadp.png">
- <img width=50% src="https://res.cloudinary.com/damtrix/image/upload/v1687507731/propertyCategories/sellProperty_hx58xx.png" alt="sellProperty" title="sellProperty">
 <a href="https://damtrix.github.io/clientSellProperty/">
     <img width=50% src="https://res.cloudinary.com/damtrix/image/upload/v1687507731/propertyCategories/sellProperty_hx58xx.png">
 </a>
